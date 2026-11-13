@@ -47,7 +47,6 @@ sumanth@thro12:~$ ping recruiters --count 1
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thro12&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="GitHub stats" height="160"/>
 <img src="https://streak-stats.demolab.com?user=thro12&theme=midnight-purple&hide_border=true&background=00000000" alt="streak stats" height="160"/>
 
 </div>
