@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,100:5b2a86&height=200&section=header&text=Sumanth%20R&fontSize=52&fontColor=e6e6fa&animation=fadeIn&fontAlignY=36&desc=aspiring%20Network%20Engineer%20%7C%20packets%20in%2C%20packets%20out&descSize=18&descAlignY=58&descColor=c9b3f0" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,100:5b2a86&height=200&section=header&text=Sumanth%20R&fontSize=52&fontColor=e6e6fa&animation=fadeIn&fontAlignY=36&desc=aspiring%20Network%20Engineer%20%7C%20packets%20in%2C%20packets%20out&descSize=18&descAlignY=58&descColor=c9b3f0&font=Fira+Code" alt="header" width="100%"/>
 
 </div>
 
@@ -19,12 +19,14 @@ sumanth@thro12:~$ ping recruiters --count 1
 64 bytes of curiosity: icmp_seq=1 ttl=64 - open to junior networking / cloud roles
 ```
 
-## `cat about.md`
-
-- CCNA **preparation nearing completion** - trained hands-on, not yet certified
-- 7 Cisco Networking Academy course badges earned
-- Juniper track is the next goal
-- I like my networks redundant, my configs version-controlled, and my labs honest about what passed and what failed
+```console
+sumanth@thro12:~$ cat about.md
+CCNA preparation nearing completion - trained hands-on, not yet certified
+7 Cisco Networking Academy course badges earned
+Juniper track is the next goal
+I like my networks redundant, my configs version-controlled,
+and my labs honest about what passed and what failed
+```
 
 ## `ls skills/`
 
