@@ -2,7 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/profile-banner.svg" alt="header" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/focus-boxes.svg" alt="focus areas" width="100%"/>
+<img src="https://img.shields.io/badge/NETWORKING-5b2a86?style=for-the-badge&logoColor=white" alt="NETWORKING" height="44"/>
+<img src="https://img.shields.io/badge/CCNA-3d1a63?style=for-the-badge&logoColor=white" alt="CCNA" height="44"/>
+<img src="https://img.shields.io/badge/LINUX-5b2a86?style=for-the-badge&logoColor=white" alt="LINUX" height="44"/>
+<img src="https://img.shields.io/badge/AWS-3d1a63?style=for-the-badge&logoColor=white" alt="AWS" height="44"/>
+<img src="https://img.shields.io/badge/DEVOPS-5b2a86?style=for-the-badge&logoColor=white" alt="DEVOPS" height="44"/>
 
 </div>
 
