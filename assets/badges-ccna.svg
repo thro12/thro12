@@ -1,66 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232">
-<rect x="0" y="0" width="276" height="32" rx="3" fill="#5b2a86"/>
+<rect x="0" y="0" width="276" height="32" rx="3" fill="#46256b"/>
 <text x="138.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">IPv4 Addressing + Subnetting</text>
-<rect x="282" y="0" width="77" height="32" rx="3" fill="#3d1a63"/>
+<rect x="282" y="0" width="77" height="32" rx="3" fill="#33194f"/>
 <text x="320.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">VLANs</text>
-<rect x="365" y="0" width="162" height="32" rx="3" fill="#5b2a86"/>
+<rect x="365" y="0" width="162" height="32" rx="3" fill="#46256b"/>
 <text x="446.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">802.1Q Trunking</text>
-<rect x="533" y="0" width="186" height="32" rx="3" fill="#3d1a63"/>
+<rect x="533" y="0" width="186" height="32" rx="3" fill="#33194f"/>
 <text x="626.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Inter VLAN Routing</text>
-<rect x="725" y="0" width="55" height="32" rx="3" fill="#5b2a86"/>
+<rect x="725" y="0" width="55" height="32" rx="3" fill="#46256b"/>
 <text x="752.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">STP</text>
-<rect x="0" y="40" width="137" height="32" rx="3" fill="#3d1a63"/>
+<rect x="0" y="40" width="137" height="32" rx="3" fill="#33194f"/>
 <text x="68.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">EtherChannel</text>
-<rect x="143" y="40" width="134" height="32" rx="3" fill="#5b2a86"/>
+<rect x="143" y="40" width="134" height="32" rx="3" fill="#46256b"/>
 <text x="210.0" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Port Security</text>
-<rect x="283" y="40" width="134" height="32" rx="3" fill="#3d1a63"/>
+<rect x="283" y="40" width="134" height="32" rx="3" fill="#33194f"/>
 <text x="350.0" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Wireless LAN</text>
-<rect x="423" y="40" width="143" height="32" rx="3" fill="#5b2a86"/>
+<rect x="423" y="40" width="143" height="32" rx="3" fill="#46256b"/>
 <text x="494.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Static Routing</text>
-<rect x="572" y="40" width="51" height="32" rx="3" fill="#3d1a63"/>
+<rect x="572" y="40" width="51" height="32" rx="3" fill="#33194f"/>
 <text x="597.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">RIP</text>
-<rect x="629" y="40" width="73" height="32" rx="3" fill="#5b2a86"/>
+<rect x="629" y="40" width="73" height="32" rx="3" fill="#46256b"/>
 <text x="665.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">EIGRP</text>
-<rect x="708" y="40" width="67" height="32" rx="3" fill="#3d1a63"/>
+<rect x="708" y="40" width="67" height="32" rx="3" fill="#33194f"/>
 <text x="741.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">OSPF</text>
-<rect x="781" y="40" width="70" height="32" rx="3" fill="#5b2a86"/>
+<rect x="781" y="40" width="70" height="32" rx="3" fill="#46256b"/>
 <text x="816.0" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">DHCP</text>
-<rect x="0" y="80" width="58" height="32" rx="3" fill="#3d1a63"/>
+<rect x="0" y="80" width="58" height="32" rx="3" fill="#33194f"/>
 <text x="29.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">DNS</text>
-<rect x="64" y="80" width="56" height="32" rx="3" fill="#5b2a86"/>
+<rect x="64" y="80" width="56" height="32" rx="3" fill="#46256b"/>
 <text x="92.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">NAT</text>
-<rect x="126" y="80" width="64" height="32" rx="3" fill="#3d1a63"/>
+<rect x="126" y="80" width="64" height="32" rx="3" fill="#33194f"/>
 <text x="158.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">ACLs</text>
-<rect x="196" y="80" width="203" height="32" rx="3" fill="#5b2a86"/>
+<rect x="196" y="80" width="203" height="32" rx="3" fill="#46256b"/>
 <text x="297.5" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Multi Service Servers</text>
-<rect x="405" y="80" width="149" height="32" rx="3" fill="#3d1a63"/>
+<rect x="405" y="80" width="149" height="32" rx="3" fill="#33194f"/>
 <text x="479.5" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">SSH Hardening</text>
-<rect x="560" y="80" width="122" height="32" rx="3" fill="#5b2a86"/>
+<rect x="560" y="80" width="122" height="32" rx="3" fill="#46256b"/>
 <text x="621.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">ARP + ICMP</text>
-<rect x="688" y="80" width="141" height="32" rx="3" fill="#3d1a63"/>
+<rect x="688" y="80" width="141" height="32" rx="3" fill="#33194f"/>
 <text x="758.5" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Encapsulation</text>
-<rect x="0" y="120" width="281" height="32" rx="3" fill="#5b2a86"/>
+<rect x="0" y="120" width="281" height="32" rx="3" fill="#46256b"/>
 <text x="140.5" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Broadcast + Collision Domains</text>
-<rect x="287" y="120" width="129" height="32" rx="3" fill="#3d1a63"/>
+<rect x="287" y="120" width="129" height="32" rx="3" fill="#33194f"/>
 <text x="351.5" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">OSI + TCP/IP</text>
-<rect x="422" y="120" width="170" height="32" rx="3" fill="#5b2a86"/>
+<rect x="422" y="120" width="170" height="32" rx="3" fill="#46256b"/>
 <text x="507.0" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Ports + Protocols</text>
-<rect x="598" y="120" width="218" height="32" rx="3" fill="#3d1a63"/>
+<rect x="598" y="120" width="218" height="32" rx="3" fill="#33194f"/>
 <text x="707.0" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Copper + Fibre Cabling</text>
-<rect x="0" y="160" width="201" height="32" rx="3" fill="#5b2a86"/>
+<rect x="0" y="160" width="201" height="32" rx="3" fill="#46256b"/>
 <text x="100.5" y="181.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">IOS Command Modes</text>
-<rect x="207" y="160" width="253" height="32" rx="3" fill="#3d1a63"/>
+<rect x="207" y="160" width="253" height="32" rx="3" fill="#33194f"/>
 <text x="333.5" y="181.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Troubleshooting Workflows</text>
-<rect x="466" y="160" width="217" height="32" rx="3" fill="#5b2a86"/>
+<rect x="466" y="160" width="217" height="32" rx="3" fill="#46256b"/>
 <text x="574.5" y="181.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Security Fundamentals</text>
-<rect x="689" y="160" width="137" height="32" rx="3" fill="#3d1a63"/>
+<rect x="689" y="160" width="137" height="32" rx="3" fill="#33194f"/>
 <text x="757.5" y="181.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Packet Tracer</text>
-<rect x="0" y="200" width="136" height="32" rx="3" fill="#5b2a86"/>
+<rect x="0" y="200" width="136" height="32" rx="3" fill="#46256b"/>
 <text x="68.0" y="221.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">GNS3 + VPCS</text>
-<rect x="142" y="200" width="133" height="32" rx="3" fill="#3d1a63"/>
+<rect x="142" y="200" width="133" height="32" rx="3" fill="#33194f"/>
 <text x="208.5" y="221.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Cisco IOS CLI</text>
-<rect x="281" y="200" width="332" height="32" rx="3" fill="#5b2a86"/>
+<rect x="281" y="200" width="332" height="32" rx="3" fill="#46256b"/>
 <text x="447.0" y="221.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Cisco 2500 Series Routers (Physical)</text>
-<rect x="619" y="200" width="214" height="32" rx="3" fill="#5b2a86"/>
+<rect x="619" y="200" width="214" height="32" rx="3" fill="#46256b"/>
 <text x="726.0" y="221.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Cisco 7206VXR (GNS3)</text>
 </svg>
