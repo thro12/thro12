@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120">
+<rect width="1200" height="120" fill="#0b0714"/>
+<rect x="48" y="28" width="200" height="64" rx="10" fill="#1c1433" stroke="#7c4dbb" stroke-width="1.6"/>
+<text x="148" y="66" text-anchor="middle" font-family="ui-monospace, SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="17" font-weight="900" letter-spacing="1" fill="#9d6ee0" stroke="#9d6ee0" stroke-width="0.7">NETWORKING</text>
+<rect x="274" y="28" width="200" height="64" rx="10" fill="#241a3f" stroke="#5b2a86" stroke-width="1.6"/>
+<text x="374" y="67" text-anchor="middle" font-family="ui-monospace, SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="21" font-weight="900" letter-spacing="2" fill="#9d6ee0" stroke="#9d6ee0" stroke-width="0.7">CCNA</text>
+<rect x="500" y="28" width="200" height="64" rx="10" fill="#1c1433" stroke="#7c4dbb" stroke-width="1.6"/>
+<text x="600" y="67" text-anchor="middle" font-family="ui-monospace, SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="21" font-weight="900" letter-spacing="2" fill="#9d6ee0" stroke="#9d6ee0" stroke-width="0.7">LINUX</text>
+<rect x="726" y="28" width="200" height="64" rx="10" fill="#241a3f" stroke="#5b2a86" stroke-width="1.6"/>
+<text x="826" y="67" text-anchor="middle" font-family="ui-monospace, SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="21" font-weight="900" letter-spacing="2" fill="#9d6ee0" stroke="#9d6ee0" stroke-width="0.7">AWS</text>
+<rect x="952" y="28" width="200" height="64" rx="10" fill="#1c1433" stroke="#7c4dbb" stroke-width="1.6"/>
+<text x="1052" y="67" text-anchor="middle" font-family="ui-monospace, SF Mono, Cascadia Code, Menlo, Consolas, monospace" font-size="21" font-weight="900" letter-spacing="2" fill="#9d6ee0" stroke="#9d6ee0" stroke-width="0.7">DEVOPS</text>
+</svg>
