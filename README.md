@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/profile-banner.svg" alt="header" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/focus-boxes.svg" alt="focus areas" width="100%"/>
+
 </div>
 
 ```console
@@ -50,13 +52,21 @@ and my labs honest about what passed and what failed
 ![ACLs](https://img.shields.io/badge/ACLs-3d1a63?style=flat-square&logoColor=white)
 ![Multi Service Servers](https://img.shields.io/badge/Multi%20Service%20Servers-5b2a86?style=flat-square&logoColor=white)
 ![SSH Hardening](https://img.shields.io/badge/SSH%20Hardening-3d1a63?style=flat-square&logoColor=white)
-![OSI + TCP/IP](https://img.shields.io/badge/OSI%20%2B%20TCP%2FIP-5b2a86?style=flat-square&logoColor=white)
-![Ports + Protocols](https://img.shields.io/badge/Ports%20%2B%20Protocols-3d1a63?style=flat-square&logoColor=white)
-![Copper + Fibre Cabling](https://img.shields.io/badge/Copper%20%2B%20Fibre%20Cabling-5b2a86?style=flat-square&logoColor=white)
+![ARP + ICMP](https://img.shields.io/badge/ARP%20%2B%20ICMP-5b2a86?style=flat-square&logoColor=white)
+![Encapsulation](https://img.shields.io/badge/Encapsulation-3d1a63?style=flat-square&logoColor=white)
+![Broadcast + Collision Domains](https://img.shields.io/badge/Broadcast%20%2B%20Collision%20Domains-5b2a86?style=flat-square&logoColor=white)
+![OSI + TCP/IP](https://img.shields.io/badge/OSI%20%2B%20TCP%2FIP-3d1a63?style=flat-square&logoColor=white)
+![Ports + Protocols](https://img.shields.io/badge/Ports%20%2B%20Protocols-5b2a86?style=flat-square&logoColor=white)
+![Copper + Fibre Cabling](https://img.shields.io/badge/Copper%20%2B%20Fibre%20Cabling-3d1a63?style=flat-square&logoColor=white)
+![IOS Command Modes](https://img.shields.io/badge/IOS%20Command%20Modes-5b2a86?style=flat-square&logoColor=white)
+![Troubleshooting Workflows](https://img.shields.io/badge/Troubleshooting%20Workflows-3d1a63?style=flat-square&logoColor=white)
+![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-5b2a86?style=flat-square&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-3d1a63?style=flat-square&logoColor=white)
 ![GNS3 + VPCS](https://img.shields.io/badge/GNS3%20%2B%20VPCS-5b2a86?style=flat-square&logoColor=white)
 ![Cisco IOS CLI](https://img.shields.io/badge/Cisco%20IOS%20CLI-3d1a63?style=flat-square&logoColor=white)
-![Cisco 2500 Series Hardware](https://img.shields.io/badge/Cisco%202500%20Series%20Hardware-5b2a86?style=flat-square&logoColor=white)
+![Cisco 2500 Series Routers %28Physical%29](https://img.shields.io/badge/Cisco%202500%20Series%20Routers%20%28Physical%29-5b2a86?style=flat-square&logoColor=white)
+![Cisco 3850 Switch %28Physical%29](https://img.shields.io/badge/Cisco%203850%20Switch%20%28Physical%29-3d1a63?style=flat-square&logoColor=white)
+![Cisco 7206VXR %28GNS3%29](https://img.shields.io/badge/Cisco%207206VXR%20%28GNS3%29-5b2a86?style=flat-square&logoColor=white)
 
 ### `Linux Skills`
 
@@ -66,12 +76,14 @@ and my labs honest about what passed and what failed
 ![Hard + Soft Links](https://img.shields.io/badge/Hard%20%2B%20Soft%20Links-3d1a63?style=flat-square&logoColor=white)
 ![find + locate](https://img.shields.io/badge/find%20%2B%20locate-5b2a86?style=flat-square&logoColor=white)
 ![du + df](https://img.shields.io/badge/du%20%2B%20df-3d1a63?style=flat-square&logoColor=white)
-![User + Group Admin](https://img.shields.io/badge/User%20%2B%20Group%20Admin-5b2a86?style=flat-square&logoColor=white)
-![Permissions + ACLs](https://img.shields.io/badge/Permissions%20%2B%20ACLs-3d1a63?style=flat-square&logoColor=white)
-![Disk Partitioning](https://img.shields.io/badge/Disk%20Partitioning-5b2a86?style=flat-square&logoColor=white)
-![Mounting](https://img.shields.io/badge/Mounting-3d1a63?style=flat-square&logoColor=white)
-![LVM](https://img.shields.io/badge/LVM-5b2a86?style=flat-square&logoColor=white)
-![Packages + Services](https://img.shields.io/badge/Packages%20%2B%20Services-3d1a63?style=flat-square&logoColor=white)
+![stat + readlink](https://img.shields.io/badge/stat%20%2B%20readlink-5b2a86?style=flat-square&logoColor=white)
+![User + Group Admin](https://img.shields.io/badge/User%20%2B%20Group%20Admin-3d1a63?style=flat-square&logoColor=white)
+![Permissions + ACLs](https://img.shields.io/badge/Permissions%20%2B%20ACLs-5b2a86?style=flat-square&logoColor=white)
+![Disk Partitioning](https://img.shields.io/badge/Disk%20Partitioning-3d1a63?style=flat-square&logoColor=white)
+![Mounting](https://img.shields.io/badge/Mounting-5b2a86?style=flat-square&logoColor=white)
+![LVM](https://img.shields.io/badge/LVM-3d1a63?style=flat-square&logoColor=white)
+![Packages + Services](https://img.shields.io/badge/Packages%20%2B%20Services-5b2a86?style=flat-square&logoColor=white)
+![Process Management](https://img.shields.io/badge/Process%20Management-3d1a63?style=flat-square&logoColor=white)
 ![systemctl](https://img.shields.io/badge/systemctl-5b2a86?style=flat-square&logoColor=white)
 ![journalctl + dmesg](https://img.shields.io/badge/journalctl%20%2B%20dmesg-3d1a63?style=flat-square&logoColor=white)
 ![Boot Process](https://img.shields.io/badge/Boot%20Process-5b2a86?style=flat-square&logoColor=white)
@@ -93,6 +105,17 @@ and my labs honest about what passed and what failed
 ![Console Collector Scripts](https://img.shields.io/badge/Console%20Collector%20Scripts-5b2a86?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-3d1a63?style=flat-square&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-5b2a86?style=flat-square&logoColor=white)
+
+### `learning-next/`
+
+![BGP](https://img.shields.io/badge/BGP-2a1b3d?style=flat-square&logoColor=white)
+![Multi Area OSPF](https://img.shields.io/badge/Multi%20Area%20OSPF-241a3f?style=flat-square&logoColor=white)
+![AAA](https://img.shields.io/badge/AAA-2a1b3d?style=flat-square&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-241a3f?style=flat-square&logoColor=white)
+![DDoS Protection](https://img.shields.io/badge/DDoS%20Protection-2a1b3d?style=flat-square&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-241a3f?style=flat-square&logoColor=white)
+![AWS VPC Hands On](https://img.shields.io/badge/AWS%20VPC%20Hands%20On-2a1b3d?style=flat-square&logoColor=white)
+![Bash Automation Projects](https://img.shields.io/badge/Bash%20Automation%20Projects-241a3f?style=flat-square&logoColor=white)
 
 ## `ls featured-projects/`
 
