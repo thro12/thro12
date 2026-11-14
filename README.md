@@ -34,87 +34,87 @@ and my labs honest about what passed and what failed
 
 ### `CCNA Skills`
 
-![IPv4 Addressing + Subnetting](https://img.shields.io/badge/IPv4%20Addressing%20%2B%20Subnetting-5b2a86?style=flat-square&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-3d1a63?style=flat-square&logoColor=white)
-![802.1Q Trunking](https://img.shields.io/badge/802.1Q%20Trunking-5b2a86?style=flat-square&logoColor=white)
-![Inter VLAN Routing](https://img.shields.io/badge/Inter%20VLAN%20Routing-3d1a63?style=flat-square&logoColor=white)
-![STP](https://img.shields.io/badge/STP-5b2a86?style=flat-square&logoColor=white)
-![EtherChannel](https://img.shields.io/badge/EtherChannel-3d1a63?style=flat-square&logoColor=white)
-![Port Security](https://img.shields.io/badge/Port%20Security-5b2a86?style=flat-square&logoColor=white)
-![Wireless LAN](https://img.shields.io/badge/Wireless%20LAN-3d1a63?style=flat-square&logoColor=white)
-![Static Routing](https://img.shields.io/badge/Static%20Routing-5b2a86?style=flat-square&logoColor=white)
-![RIP](https://img.shields.io/badge/RIP-3d1a63?style=flat-square&logoColor=white)
-![EIGRP](https://img.shields.io/badge/EIGRP-5b2a86?style=flat-square&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-3d1a63?style=flat-square&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-5b2a86?style=flat-square&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-3d1a63?style=flat-square&logoColor=white)
-![NAT](https://img.shields.io/badge/NAT-5b2a86?style=flat-square&logoColor=white)
-![ACLs](https://img.shields.io/badge/ACLs-3d1a63?style=flat-square&logoColor=white)
-![Multi Service Servers](https://img.shields.io/badge/Multi%20Service%20Servers-5b2a86?style=flat-square&logoColor=white)
-![SSH Hardening](https://img.shields.io/badge/SSH%20Hardening-3d1a63?style=flat-square&logoColor=white)
-![ARP + ICMP](https://img.shields.io/badge/ARP%20%2B%20ICMP-5b2a86?style=flat-square&logoColor=white)
-![Encapsulation](https://img.shields.io/badge/Encapsulation-3d1a63?style=flat-square&logoColor=white)
-![Broadcast + Collision Domains](https://img.shields.io/badge/Broadcast%20%2B%20Collision%20Domains-5b2a86?style=flat-square&logoColor=white)
-![OSI + TCP/IP](https://img.shields.io/badge/OSI%20%2B%20TCP%2FIP-3d1a63?style=flat-square&logoColor=white)
-![Ports + Protocols](https://img.shields.io/badge/Ports%20%2B%20Protocols-5b2a86?style=flat-square&logoColor=white)
-![Copper + Fibre Cabling](https://img.shields.io/badge/Copper%20%2B%20Fibre%20Cabling-3d1a63?style=flat-square&logoColor=white)
-![IOS Command Modes](https://img.shields.io/badge/IOS%20Command%20Modes-5b2a86?style=flat-square&logoColor=white)
-![Troubleshooting Workflows](https://img.shields.io/badge/Troubleshooting%20Workflows-3d1a63?style=flat-square&logoColor=white)
-![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-5b2a86?style=flat-square&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-3d1a63?style=flat-square&logoColor=white)
-![GNS3 + VPCS](https://img.shields.io/badge/GNS3%20%2B%20VPCS-5b2a86?style=flat-square&logoColor=white)
-![Cisco IOS CLI](https://img.shields.io/badge/Cisco%20IOS%20CLI-3d1a63?style=flat-square&logoColor=white)
-![Cisco 2500 Series Routers %28Physical%29](https://img.shields.io/badge/Cisco%202500%20Series%20Routers%20%28Physical%29-5b2a86?style=flat-square&logoColor=white)
-![Cisco 7206VXR %28GNS3%29](https://img.shields.io/badge/Cisco%207206VXR%20%28GNS3%29-5b2a86?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/IPv4%20Addressing%20%2B%20Subnetting-5b2a86?style=flat-square&logoColor=white" alt="IPv4 Addressing + Subnetting" height="34"/>
+<img src="https://img.shields.io/badge/VLANs-3d1a63?style=flat-square&logoColor=white" alt="VLANs" height="34"/>
+<img src="https://img.shields.io/badge/802.1Q%20Trunking-5b2a86?style=flat-square&logoColor=white" alt="802.1Q Trunking" height="34"/>
+<img src="https://img.shields.io/badge/Inter%20VLAN%20Routing-3d1a63?style=flat-square&logoColor=white" alt="Inter VLAN Routing" height="34"/>
+<img src="https://img.shields.io/badge/STP-5b2a86?style=flat-square&logoColor=white" alt="STP" height="34"/>
+<img src="https://img.shields.io/badge/EtherChannel-3d1a63?style=flat-square&logoColor=white" alt="EtherChannel" height="34"/>
+<img src="https://img.shields.io/badge/Port%20Security-5b2a86?style=flat-square&logoColor=white" alt="Port Security" height="34"/>
+<img src="https://img.shields.io/badge/Wireless%20LAN-3d1a63?style=flat-square&logoColor=white" alt="Wireless LAN" height="34"/>
+<img src="https://img.shields.io/badge/Static%20Routing-5b2a86?style=flat-square&logoColor=white" alt="Static Routing" height="34"/>
+<img src="https://img.shields.io/badge/RIP-3d1a63?style=flat-square&logoColor=white" alt="RIP" height="34"/>
+<img src="https://img.shields.io/badge/EIGRP-5b2a86?style=flat-square&logoColor=white" alt="EIGRP" height="34"/>
+<img src="https://img.shields.io/badge/OSPF-3d1a63?style=flat-square&logoColor=white" alt="OSPF" height="34"/>
+<img src="https://img.shields.io/badge/DHCP-5b2a86?style=flat-square&logoColor=white" alt="DHCP" height="34"/>
+<img src="https://img.shields.io/badge/DNS-3d1a63?style=flat-square&logoColor=white" alt="DNS" height="34"/>
+<img src="https://img.shields.io/badge/NAT-5b2a86?style=flat-square&logoColor=white" alt="NAT" height="34"/>
+<img src="https://img.shields.io/badge/ACLs-3d1a63?style=flat-square&logoColor=white" alt="ACLs" height="34"/>
+<img src="https://img.shields.io/badge/Multi%20Service%20Servers-5b2a86?style=flat-square&logoColor=white" alt="Multi Service Servers" height="34"/>
+<img src="https://img.shields.io/badge/SSH%20Hardening-3d1a63?style=flat-square&logoColor=white" alt="SSH Hardening" height="34"/>
+<img src="https://img.shields.io/badge/ARP%20%2B%20ICMP-5b2a86?style=flat-square&logoColor=white" alt="ARP + ICMP" height="34"/>
+<img src="https://img.shields.io/badge/Encapsulation-3d1a63?style=flat-square&logoColor=white" alt="Encapsulation" height="34"/>
+<img src="https://img.shields.io/badge/Broadcast%20%2B%20Collision%20Domains-5b2a86?style=flat-square&logoColor=white" alt="Broadcast + Collision Domains" height="34"/>
+<img src="https://img.shields.io/badge/OSI%20%2B%20TCP%2FIP-3d1a63?style=flat-square&logoColor=white" alt="OSI + TCP/IP" height="34"/>
+<img src="https://img.shields.io/badge/Ports%20%2B%20Protocols-5b2a86?style=flat-square&logoColor=white" alt="Ports + Protocols" height="34"/>
+<img src="https://img.shields.io/badge/Copper%20%2B%20Fibre%20Cabling-3d1a63?style=flat-square&logoColor=white" alt="Copper + Fibre Cabling" height="34"/>
+<img src="https://img.shields.io/badge/IOS%20Command%20Modes-5b2a86?style=flat-square&logoColor=white" alt="IOS Command Modes" height="34"/>
+<img src="https://img.shields.io/badge/Troubleshooting%20Workflows-3d1a63?style=flat-square&logoColor=white" alt="Troubleshooting Workflows" height="34"/>
+<img src="https://img.shields.io/badge/Security%20Fundamentals-5b2a86?style=flat-square&logoColor=white" alt="Security Fundamentals" height="34"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-3d1a63?style=flat-square&logoColor=white" alt="Packet Tracer" height="34"/>
+<img src="https://img.shields.io/badge/GNS3%20%2B%20VPCS-5b2a86?style=flat-square&logoColor=white" alt="GNS3 + VPCS" height="34"/>
+<img src="https://img.shields.io/badge/Cisco%20IOS%20CLI-3d1a63?style=flat-square&logoColor=white" alt="Cisco IOS CLI" height="34"/>
+<img src="https://img.shields.io/badge/Cisco%202500%20Series%20Routers%20%28Physical%29-5b2a86?style=flat-square&logoColor=white" alt="Cisco 2500 Series Routers %28Physical%29" height="34"/>
+<img src="https://img.shields.io/badge/Cisco%207206VXR%20%28GNS3%29-5b2a86?style=flat-square&logoColor=white" alt="Cisco 7206VXR %28GNS3%29" height="34"/>
 
 ### `Linux Skills`
 
-![Bash + Shell](https://img.shields.io/badge/Bash%20%2B%20Shell-5b2a86?style=flat-square&logoColor=white)
-![Filesystem Layout](https://img.shields.io/badge/Filesystem%20Layout-3d1a63?style=flat-square&logoColor=white)
-![File Operations](https://img.shields.io/badge/File%20Operations-5b2a86?style=flat-square&logoColor=white)
-![Hard + Soft Links](https://img.shields.io/badge/Hard%20%2B%20Soft%20Links-3d1a63?style=flat-square&logoColor=white)
-![find + locate](https://img.shields.io/badge/find%20%2B%20locate-5b2a86?style=flat-square&logoColor=white)
-![du + df](https://img.shields.io/badge/du%20%2B%20df-3d1a63?style=flat-square&logoColor=white)
-![stat + readlink](https://img.shields.io/badge/stat%20%2B%20readlink-5b2a86?style=flat-square&logoColor=white)
-![User + Group Admin](https://img.shields.io/badge/User%20%2B%20Group%20Admin-3d1a63?style=flat-square&logoColor=white)
-![Permissions + ACLs](https://img.shields.io/badge/Permissions%20%2B%20ACLs-5b2a86?style=flat-square&logoColor=white)
-![Disk Partitioning](https://img.shields.io/badge/Disk%20Partitioning-3d1a63?style=flat-square&logoColor=white)
-![Mounting](https://img.shields.io/badge/Mounting-5b2a86?style=flat-square&logoColor=white)
-![LVM](https://img.shields.io/badge/LVM-3d1a63?style=flat-square&logoColor=white)
-![Packages + Services](https://img.shields.io/badge/Packages%20%2B%20Services-5b2a86?style=flat-square&logoColor=white)
-![Process Management](https://img.shields.io/badge/Process%20Management-3d1a63?style=flat-square&logoColor=white)
-![systemctl](https://img.shields.io/badge/systemctl-5b2a86?style=flat-square&logoColor=white)
-![journalctl + dmesg](https://img.shields.io/badge/journalctl%20%2B%20dmesg-3d1a63?style=flat-square&logoColor=white)
-![Boot Process](https://img.shields.io/badge/Boot%20Process-5b2a86?style=flat-square&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-3d1a63?style=flat-square&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-5b2a86?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Bash%20%2B%20Shell-5b2a86?style=flat-square&logoColor=white" alt="Bash + Shell" height="34"/>
+<img src="https://img.shields.io/badge/Filesystem%20Layout-3d1a63?style=flat-square&logoColor=white" alt="Filesystem Layout" height="34"/>
+<img src="https://img.shields.io/badge/File%20Operations-5b2a86?style=flat-square&logoColor=white" alt="File Operations" height="34"/>
+<img src="https://img.shields.io/badge/Hard%20%2B%20Soft%20Links-3d1a63?style=flat-square&logoColor=white" alt="Hard + Soft Links" height="34"/>
+<img src="https://img.shields.io/badge/find%20%2B%20locate-5b2a86?style=flat-square&logoColor=white" alt="find + locate" height="34"/>
+<img src="https://img.shields.io/badge/du%20%2B%20df-3d1a63?style=flat-square&logoColor=white" alt="du + df" height="34"/>
+<img src="https://img.shields.io/badge/stat%20%2B%20readlink-5b2a86?style=flat-square&logoColor=white" alt="stat + readlink" height="34"/>
+<img src="https://img.shields.io/badge/User%20%2B%20Group%20Admin-3d1a63?style=flat-square&logoColor=white" alt="User + Group Admin" height="34"/>
+<img src="https://img.shields.io/badge/Permissions%20%2B%20ACLs-5b2a86?style=flat-square&logoColor=white" alt="Permissions + ACLs" height="34"/>
+<img src="https://img.shields.io/badge/Disk%20Partitioning-3d1a63?style=flat-square&logoColor=white" alt="Disk Partitioning" height="34"/>
+<img src="https://img.shields.io/badge/Mounting-5b2a86?style=flat-square&logoColor=white" alt="Mounting" height="34"/>
+<img src="https://img.shields.io/badge/LVM-3d1a63?style=flat-square&logoColor=white" alt="LVM" height="34"/>
+<img src="https://img.shields.io/badge/Packages%20%2B%20Services-5b2a86?style=flat-square&logoColor=white" alt="Packages + Services" height="34"/>
+<img src="https://img.shields.io/badge/Process%20Management-3d1a63?style=flat-square&logoColor=white" alt="Process Management" height="34"/>
+<img src="https://img.shields.io/badge/systemctl-5b2a86?style=flat-square&logoColor=white" alt="systemctl" height="34"/>
+<img src="https://img.shields.io/badge/journalctl%20%2B%20dmesg-3d1a63?style=flat-square&logoColor=white" alt="journalctl + dmesg" height="34"/>
+<img src="https://img.shields.io/badge/Boot%20Process-5b2a86?style=flat-square&logoColor=white" alt="Boot Process" height="34"/>
+<img src="https://img.shields.io/badge/Rocky%20Linux-3d1a63?style=flat-square&logoColor=white" alt="Rocky Linux" height="34"/>
+<img src="https://img.shields.io/badge/VirtualBox-5b2a86?style=flat-square&logoColor=white" alt="VirtualBox" height="34"/>
 
 ### `AWS Skills`
 
-![AWS Cloud Essentials Badge %28Credly%29](https://img.shields.io/badge/AWS%20Cloud%20Essentials%20Badge%20%28Credly%29-5b2a86?style=flat-square&logoColor=white)
-![CLF C02 Track %28In Progress%29](https://img.shields.io/badge/CLF%20C02%20Track%20%28In%20Progress%29-3d1a63?style=flat-square&logoColor=white)
-![Cloud Fundamentals](https://img.shields.io/badge/Cloud%20Fundamentals-5b2a86?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Essentials%20Badge%20%28Credly%29-5b2a86?style=flat-square&logoColor=white" alt="AWS Cloud Essentials Badge %28Credly%29" height="34"/>
+<img src="https://img.shields.io/badge/CLF%20C02%20Track%20%28In%20Progress%29-3d1a63?style=flat-square&logoColor=white" alt="CLF C02 Track %28In Progress%29" height="34"/>
+<img src="https://img.shields.io/badge/Cloud%20Fundamentals-5b2a86?style=flat-square&logoColor=white" alt="Cloud Fundamentals" height="34"/>
 
 ### `Automation Skills`
 
-![Python](https://img.shields.io/badge/Python-5b2a86?style=flat-square&logoColor=white)
-![Netmiko](https://img.shields.io/badge/Netmiko-3d1a63?style=flat-square&logoColor=white)
-![SSH Automation](https://img.shields.io/badge/SSH%20Automation-5b2a86?style=flat-square&logoColor=white)
-![GNS3 Automation Lab](https://img.shields.io/badge/GNS3%20Automation%20Lab-3d1a63?style=flat-square&logoColor=white)
-![Console Collector Scripts](https://img.shields.io/badge/Console%20Collector%20Scripts-5b2a86?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3d1a63?style=flat-square&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-5b2a86?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Python-5b2a86?style=flat-square&logoColor=white" alt="Python" height="34"/>
+<img src="https://img.shields.io/badge/Netmiko-3d1a63?style=flat-square&logoColor=white" alt="Netmiko" height="34"/>
+<img src="https://img.shields.io/badge/SSH%20Automation-5b2a86?style=flat-square&logoColor=white" alt="SSH Automation" height="34"/>
+<img src="https://img.shields.io/badge/GNS3%20Automation%20Lab-3d1a63?style=flat-square&logoColor=white" alt="GNS3 Automation Lab" height="34"/>
+<img src="https://img.shields.io/badge/Console%20Collector%20Scripts-5b2a86?style=flat-square&logoColor=white" alt="Console Collector Scripts" height="34"/>
+<img src="https://img.shields.io/badge/Git-3d1a63?style=flat-square&logoColor=white" alt="Git" height="34"/>
+<img src="https://img.shields.io/badge/GitHub-5b2a86?style=flat-square&logoColor=white" alt="GitHub" height="34"/>
 
 ### `learning-next/`
 
-![BGP](https://img.shields.io/badge/BGP-2a1b3d?style=flat-square&logoColor=white)
-![Multi Area OSPF](https://img.shields.io/badge/Multi%20Area%20OSPF-241a3f?style=flat-square&logoColor=white)
-![AAA](https://img.shields.io/badge/AAA-2a1b3d?style=flat-square&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-241a3f?style=flat-square&logoColor=white)
-![DDoS Protection](https://img.shields.io/badge/DDoS%20Protection-2a1b3d?style=flat-square&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-241a3f?style=flat-square&logoColor=white)
-![AWS VPC Hands On](https://img.shields.io/badge/AWS%20VPC%20Hands%20On-2a1b3d?style=flat-square&logoColor=white)
-![Bash Automation Projects](https://img.shields.io/badge/Bash%20Automation%20Projects-241a3f?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/BGP-2a1b3d?style=flat-square&logoColor=white" alt="BGP" height="34"/>
+<img src="https://img.shields.io/badge/Multi%20Area%20OSPF-241a3f?style=flat-square&logoColor=white" alt="Multi Area OSPF" height="34"/>
+<img src="https://img.shields.io/badge/AAA-2a1b3d?style=flat-square&logoColor=white" alt="AAA" height="34"/>
+<img src="https://img.shields.io/badge/Firewalls-241a3f?style=flat-square&logoColor=white" alt="Firewalls" height="34"/>
+<img src="https://img.shields.io/badge/DDoS%20Protection-2a1b3d?style=flat-square&logoColor=white" alt="DDoS Protection" height="34"/>
+<img src="https://img.shields.io/badge/Ansible-241a3f?style=flat-square&logoColor=white" alt="Ansible" height="34"/>
+<img src="https://img.shields.io/badge/AWS%20VPC%20Hands%20On-2a1b3d?style=flat-square&logoColor=white" alt="AWS VPC Hands On" height="34"/>
+<img src="https://img.shields.io/badge/Bash%20Automation%20Projects-241a3f?style=flat-square&logoColor=white" alt="Bash Automation Projects" height="34"/>
 
 ## `ls featured-projects/`
 
