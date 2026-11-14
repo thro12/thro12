@@ -65,7 +65,6 @@ and my labs honest about what passed and what failed
 ![GNS3 + VPCS](https://img.shields.io/badge/GNS3%20%2B%20VPCS-5b2a86?style=flat-square&logoColor=white)
 ![Cisco IOS CLI](https://img.shields.io/badge/Cisco%20IOS%20CLI-3d1a63?style=flat-square&logoColor=white)
 ![Cisco 2500 Series Routers %28Physical%29](https://img.shields.io/badge/Cisco%202500%20Series%20Routers%20%28Physical%29-5b2a86?style=flat-square&logoColor=white)
-![Cisco 3850 Switch %28Physical%29](https://img.shields.io/badge/Cisco%203850%20Switch%20%28Physical%29-3d1a63?style=flat-square&logoColor=white)
 ![Cisco 7206VXR %28GNS3%29](https://img.shields.io/badge/Cisco%207206VXR%20%28GNS3%29-5b2a86?style=flat-square&logoColor=white)
 
 ### `Linux Skills`
