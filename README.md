@@ -32,10 +32,42 @@ and my labs honest about what passed and what failed
 
 ![Cisco](https://img.shields.io/badge/Cisco%20%2F%20Packet%20Tracer-5b2a86?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-3d1a63?style=flat-square&logoColor=white)
-![Networking](https://img.shields.io/badge/OSPF%20%C2%B7%20VLANs%20%C2%B7%20NAT%20%C2%B7%20STP%20%C2%B7%20SSH-5b2a86?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-3d1a63?style=flat-square&logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-5b2a86?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20%2F%20Netmiko-3d1a63?style=flat-square&logo=python&logoColor=white)
+
+### `skills/ccna-networking/`
+
+- Addressing: IPv4 classes, public/private ranges, subnetting + VLSM, network/broadcast math
+- Switching: VLANs, 802.1Q trunking, inter-VLAN routing (router-on-a-stick), STP, EtherChannel, port security, wireless LAN config
+- Routing: static routing, RIP, EIGRP, OSPF (neighbour formation to Full, DR/BDR, LSAs, lab configs)
+- Services: DHCP pools and DORA flow, DNS records (A/AAAA/CNAME/MX/SOA), NAT, ACLs, multi-service servers (SMTP/POP3, FTP, web)
+- Access: SSH device hardening and remote management
+- Fundamentals: OSI + TCP/IP models, encapsulation, common ports and protocols, copper and fibre cabling
+- Tools: Cisco Packet Tracer, GNS3 with VPCS, Cisco IOS CLI, hands-on practice on physical Cisco 2500-series devices
+
+### `skills/linux/`
+
+- Shell and Bash fundamentals, filesystem layout, absolute/relative paths
+- File operations: cp/mv/rm/touch, hard and soft links, inodes, find vs locate, du/df
+- User and group administration, file permissions and ACLs
+- Storage: disk partitioning, mounting, LVM
+- System management: packages, services and processes, systemctl, journalctl, dmesg, boot process
+- Practice environment: Rocky Linux VM on VirtualBox
+
+### `skills/aws-cloud/`
+
+- AWS Knowledge: Cloud Essentials badge (Credly, Nov 2026)
+- Cloud fundamentals through the AWS CLF-C02 class track (started Nov 2026)
+- Learning AWS with a network-engineering focus, hands-on projects planned next
+
+### `skills/automation/`
+
+- Python scripting for network devices with Netmiko (SSH)
+- GNS3 automation lab: 3 routers + 6 VPCs configured over SSH, OSPF pushed by script, 30/30 connectivity tests passed
+- Read-only 55-command console collector for device state
+- Lab helper scripts: IP assignment from a network range, lab reset
+- Git + GitHub for version-controlled configs and documented labs
 
 ## `ls featured-projects/`
 
