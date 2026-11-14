@@ -30,44 +30,69 @@ and my labs honest about what passed and what failed
 
 ## `ls skills/`
 
-![Cisco](https://img.shields.io/badge/Cisco%20%2F%20Packet%20Tracer-5b2a86?style=flat-square&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-3d1a63?style=flat-square&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-3d1a63?style=flat-square&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-5b2a86?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20%2F%20Netmiko-3d1a63?style=flat-square&logo=python&logoColor=white)
+### `CCNA Skills`
 
-### `skills/ccna-networking/`
+![IPv4 Addressing + Subnetting](https://img.shields.io/badge/IPv4%20Addressing%20%2B%20Subnetting-5b2a86?style=flat-square&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs-3d1a63?style=flat-square&logoColor=white)
+![802.1Q Trunking](https://img.shields.io/badge/802.1Q%20Trunking-5b2a86?style=flat-square&logoColor=white)
+![Inter VLAN Routing](https://img.shields.io/badge/Inter%20VLAN%20Routing-3d1a63?style=flat-square&logoColor=white)
+![STP](https://img.shields.io/badge/STP-5b2a86?style=flat-square&logoColor=white)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-3d1a63?style=flat-square&logoColor=white)
+![Port Security](https://img.shields.io/badge/Port%20Security-5b2a86?style=flat-square&logoColor=white)
+![Wireless LAN](https://img.shields.io/badge/Wireless%20LAN-3d1a63?style=flat-square&logoColor=white)
+![Static Routing](https://img.shields.io/badge/Static%20Routing-5b2a86?style=flat-square&logoColor=white)
+![RIP](https://img.shields.io/badge/RIP-3d1a63?style=flat-square&logoColor=white)
+![EIGRP](https://img.shields.io/badge/EIGRP-5b2a86?style=flat-square&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-3d1a63?style=flat-square&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-5b2a86?style=flat-square&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-3d1a63?style=flat-square&logoColor=white)
+![NAT](https://img.shields.io/badge/NAT-5b2a86?style=flat-square&logoColor=white)
+![ACLs](https://img.shields.io/badge/ACLs-3d1a63?style=flat-square&logoColor=white)
+![Multi Service Servers](https://img.shields.io/badge/Multi%20Service%20Servers-5b2a86?style=flat-square&logoColor=white)
+![SSH Hardening](https://img.shields.io/badge/SSH%20Hardening-3d1a63?style=flat-square&logoColor=white)
+![OSI + TCP/IP](https://img.shields.io/badge/OSI%20%2B%20TCP%2FIP-5b2a86?style=flat-square&logoColor=white)
+![Ports + Protocols](https://img.shields.io/badge/Ports%20%2B%20Protocols-3d1a63?style=flat-square&logoColor=white)
+![Copper + Fibre Cabling](https://img.shields.io/badge/Copper%20%2B%20Fibre%20Cabling-5b2a86?style=flat-square&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-3d1a63?style=flat-square&logoColor=white)
+![GNS3 + VPCS](https://img.shields.io/badge/GNS3%20%2B%20VPCS-5b2a86?style=flat-square&logoColor=white)
+![Cisco IOS CLI](https://img.shields.io/badge/Cisco%20IOS%20CLI-3d1a63?style=flat-square&logoColor=white)
+![Cisco 2500 Series Hardware](https://img.shields.io/badge/Cisco%202500%20Series%20Hardware-5b2a86?style=flat-square&logoColor=white)
 
-- Addressing: IPv4 classes, public/private ranges, subnetting + VLSM, network/broadcast math
-- Switching: VLANs, 802.1Q trunking, inter-VLAN routing (router-on-a-stick), STP, EtherChannel, port security, wireless LAN config
-- Routing: static routing, RIP, EIGRP, OSPF (neighbour formation to Full, DR/BDR, LSAs, lab configs)
-- Services: DHCP pools and DORA flow, DNS records (A/AAAA/CNAME/MX/SOA), NAT, ACLs, multi-service servers (SMTP/POP3, FTP, web)
-- Access: SSH device hardening and remote management
-- Fundamentals: OSI + TCP/IP models, encapsulation, common ports and protocols, copper and fibre cabling
-- Tools: Cisco Packet Tracer, GNS3 with VPCS, Cisco IOS CLI, hands-on practice on physical Cisco 2500-series devices
+### `Linux Skills`
 
-### `skills/linux/`
+![Bash + Shell](https://img.shields.io/badge/Bash%20%2B%20Shell-5b2a86?style=flat-square&logoColor=white)
+![Filesystem Layout](https://img.shields.io/badge/Filesystem%20Layout-3d1a63?style=flat-square&logoColor=white)
+![File Operations](https://img.shields.io/badge/File%20Operations-5b2a86?style=flat-square&logoColor=white)
+![Hard + Soft Links](https://img.shields.io/badge/Hard%20%2B%20Soft%20Links-3d1a63?style=flat-square&logoColor=white)
+![find + locate](https://img.shields.io/badge/find%20%2B%20locate-5b2a86?style=flat-square&logoColor=white)
+![du + df](https://img.shields.io/badge/du%20%2B%20df-3d1a63?style=flat-square&logoColor=white)
+![User + Group Admin](https://img.shields.io/badge/User%20%2B%20Group%20Admin-5b2a86?style=flat-square&logoColor=white)
+![Permissions + ACLs](https://img.shields.io/badge/Permissions%20%2B%20ACLs-3d1a63?style=flat-square&logoColor=white)
+![Disk Partitioning](https://img.shields.io/badge/Disk%20Partitioning-5b2a86?style=flat-square&logoColor=white)
+![Mounting](https://img.shields.io/badge/Mounting-3d1a63?style=flat-square&logoColor=white)
+![LVM](https://img.shields.io/badge/LVM-5b2a86?style=flat-square&logoColor=white)
+![Packages + Services](https://img.shields.io/badge/Packages%20%2B%20Services-3d1a63?style=flat-square&logoColor=white)
+![systemctl](https://img.shields.io/badge/systemctl-5b2a86?style=flat-square&logoColor=white)
+![journalctl + dmesg](https://img.shields.io/badge/journalctl%20%2B%20dmesg-3d1a63?style=flat-square&logoColor=white)
+![Boot Process](https://img.shields.io/badge/Boot%20Process-5b2a86?style=flat-square&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-3d1a63?style=flat-square&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-5b2a86?style=flat-square&logoColor=white)
 
-- Shell and Bash fundamentals, filesystem layout, absolute/relative paths
-- File operations: cp/mv/rm/touch, hard and soft links, inodes, find vs locate, du/df
-- User and group administration, file permissions and ACLs
-- Storage: disk partitioning, mounting, LVM
-- System management: packages, services and processes, systemctl, journalctl, dmesg, boot process
-- Practice environment: Rocky Linux VM on VirtualBox
+### `AWS Skills`
 
-### `skills/aws-cloud/`
+![AWS Cloud Essentials Badge %28Credly%29](https://img.shields.io/badge/AWS%20Cloud%20Essentials%20Badge%20%28Credly%29-5b2a86?style=flat-square&logoColor=white)
+![CLF C02 Track %28In Progress%29](https://img.shields.io/badge/CLF%20C02%20Track%20%28In%20Progress%29-3d1a63?style=flat-square&logoColor=white)
+![Cloud Fundamentals](https://img.shields.io/badge/Cloud%20Fundamentals-5b2a86?style=flat-square&logoColor=white)
 
-- AWS Knowledge: Cloud Essentials badge (Credly, Nov 2026)
-- Cloud fundamentals through the AWS CLF-C02 class track (started Nov 2026)
-- Learning AWS with a network-engineering focus, hands-on projects planned next
+### `Automation Skills`
 
-### `skills/automation/`
-
-- Python scripting for network devices with Netmiko (SSH)
-- GNS3 automation lab: 3 routers + 6 VPCs configured over SSH, OSPF pushed by script, 30/30 connectivity tests passed
-- Read-only 55-command console collector for device state
-- Lab helper scripts: IP assignment from a network range, lab reset
-- Git + GitHub for version-controlled configs and documented labs
+![Python](https://img.shields.io/badge/Python-5b2a86?style=flat-square&logoColor=white)
+![Netmiko](https://img.shields.io/badge/Netmiko-3d1a63?style=flat-square&logoColor=white)
+![SSH Automation](https://img.shields.io/badge/SSH%20Automation-5b2a86?style=flat-square&logoColor=white)
+![GNS3 Automation Lab](https://img.shields.io/badge/GNS3%20Automation%20Lab-3d1a63?style=flat-square&logoColor=white)
+![Console Collector Scripts](https://img.shields.io/badge/Console%20Collector%20Scripts-5b2a86?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3d1a63?style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5b2a86?style=flat-square&logoColor=white)
 
 ## `ls featured-projects/`
 
