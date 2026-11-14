@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="72" viewBox="0 0 880 72">
+<rect x="0" y="0" width="57" height="32" rx="3" fill="#2a1b3d"/>
+<text x="28.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">BGP</text>
+<rect x="63" y="0" width="160" height="32" rx="3" fill="#241a3f"/>
+<text x="143.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Multi Area OSPF</text>
+<rect x="229" y="0" width="57" height="32" rx="3" fill="#2a1b3d"/>
+<text x="257.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">AAA</text>
+<rect x="292" y="0" width="99" height="32" rx="3" fill="#241a3f"/>
+<text x="341.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Firewalls</text>
+<rect x="397" y="0" width="162" height="32" rx="3" fill="#2a1b3d"/>
+<text x="478.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">DDoS Protection</text>
+<rect x="565" y="0" width="85" height="32" rx="3" fill="#241a3f"/>
+<text x="607.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Ansible</text>
+<rect x="656" y="0" width="186" height="32" rx="3" fill="#2a1b3d"/>
+<text x="749.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">AWS VPC Hands On</text>
+<rect x="0" y="40" width="242" height="32" rx="3" fill="#241a3f"/>
+<text x="121.0" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Bash Automation Projects</text>
+</svg>
