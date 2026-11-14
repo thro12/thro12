@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="152" viewBox="0 0 880 152">
+<rect x="0" y="0" width="129" height="32" rx="3" fill="#5b2a86"/>
+<text x="64.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Bash + Shell</text>
+<rect x="135" y="0" width="176" height="32" rx="3" fill="#3d1a63"/>
+<text x="223.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Filesystem Layout</text>
+<rect x="317" y="0" width="152" height="32" rx="3" fill="#5b2a86"/>
+<text x="393.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">File Operations</text>
+<rect x="475" y="0" width="171" height="32" rx="3" fill="#3d1a63"/>
+<text x="560.5" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Hard + Soft Links</text>
+<rect x="652" y="0" width="130" height="32" rx="3" fill="#5b2a86"/>
+<text x="717.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">find + locate</text>
+<rect x="788" y="0" width="84" height="32" rx="3" fill="#3d1a63"/>
+<text x="830.0" y="21.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">du + df</text>
+<rect x="0" y="40" width="148" height="32" rx="3" fill="#5b2a86"/>
+<text x="74.0" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">stat + readlink</text>
+<rect x="154" y="40" width="195" height="32" rx="3" fill="#3d1a63"/>
+<text x="251.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">User + Group Admin</text>
+<rect x="355" y="40" width="189" height="32" rx="3" fill="#5b2a86"/>
+<text x="449.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Permissions + ACLs</text>
+<rect x="550" y="40" width="164" height="32" rx="3" fill="#3d1a63"/>
+<text x="632.0" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Disk Partitioning</text>
+<rect x="720" y="40" width="103" height="32" rx="3" fill="#5b2a86"/>
+<text x="771.5" y="61.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Mounting</text>
+<rect x="0" y="80" width="57" height="32" rx="3" fill="#3d1a63"/>
+<text x="28.5" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">LVM</text>
+<rect x="63" y="80" width="196" height="32" rx="3" fill="#5b2a86"/>
+<text x="161.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Packages + Services</text>
+<rect x="265" y="80" width="204" height="32" rx="3" fill="#3d1a63"/>
+<text x="367.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Process Management</text>
+<rect x="475" y="80" width="104" height="32" rx="3" fill="#5b2a86"/>
+<text x="527.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">systemctl</text>
+<rect x="585" y="80" width="182" height="32" rx="3" fill="#3d1a63"/>
+<text x="676.0" y="101.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">journalctl + dmesg</text>
+<rect x="0" y="120" width="133" height="32" rx="3" fill="#5b2a86"/>
+<text x="66.5" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Boot Process</text>
+<rect x="139" y="120" width="124" height="32" rx="3" fill="#3d1a63"/>
+<text x="201.0" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Rocky Linux</text>
+<rect x="269" y="120" width="111" height="32" rx="3" fill="#5b2a86"/>
+<text x="324.5" y="141.4" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="15" font-weight="bold" fill="#ffffff">VirtualBox</text>
+</svg>
