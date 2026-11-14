@@ -30,6 +30,14 @@ I like my networks redundant, my configs version-controlled,
 and my labs honest about what passed and what failed
 ```
 
+## `tcpdump --stats`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=thro12&theme=midnight-purple&hide_border=true&background=00000000" alt="streak stats" height="160"/>
+
+</div>
+
 ## `ls skills/`
 
 ### `CCNA Skills`
@@ -59,14 +67,6 @@ and my labs honest about what passed and what failed
 - [**network-automation**](https://github.com/thro12/network-automation) - Python automation scripts (Netmiko, SSH automation labs)
 - [**cloud**](https://github.com/thro12/cloud) / [**aws**](https://github.com/thro12/aws) - cloud and AWS learning track
 - Live portfolio: [sumanth-portfolio-nine.vercel.app](https://sumanth-portfolio-nine.vercel.app/)
-
-## `tcpdump --stats`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thro12&theme=midnight-purple&hide_border=true&background=00000000" alt="streak stats" height="160"/>
-
-</div>
 
 ## `telnet me`
 
