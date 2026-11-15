@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/profile-banner.svg" alt="header" width="100%"/>
+<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/profile-banner.svg?v=octocat-20261116" alt="header" width="100%"/>
 
 </div>
 
