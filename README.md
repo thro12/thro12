@@ -4,19 +4,19 @@
 
 </div>
 
-## `tcpdump --stats`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/dashboard-stats.svg" alt="profile stats dashboard"/>
-
-</div>
-
 ## `ls dashboard/`
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/dashboard-learning.svg" alt="learning dashboard"/>
+
+</div>
+
+## `tcpdump --stats`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/dashboard-stats.svg" alt="profile stats dashboard"/>
 
 </div>
 
