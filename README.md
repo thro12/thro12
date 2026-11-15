@@ -10,7 +10,15 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=thro12&theme=midnight-purple&hide_border=true&background=00000000" alt="streak stats" height="160"/>
+<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/dashboard-stats.svg" alt="profile stats dashboard"/>
+
+</div>
+
+## `ls dashboard/`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/dashboard-learning.svg" alt="learning dashboard"/>
 
 </div>
 
