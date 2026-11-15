@@ -5,31 +5,6 @@
 <img src="https://raw.githubusercontent.com/thro12/thro12/main/assets/focus-badges.svg" alt="focus areas"/>
 
 </div>
-
-```console
-sumanth@thro12:~$ whoami
-Sumanth R - Computer Science (2026), networking-first fresher
-
-sumanth@thro12:~$ traceroute career-path
- 1  CCNA training on physical Cisco 2500-series devices (TBN, Bengaluru)
- 2  Enterprise labs in Packet Tracer + GNS3 - hotel, bank and company networks
- 3  Linux and AWS fundamentals
- 4  Python network automation with Netmiko
- 5  target: junior network engineer -> automation -> data-centre networking
-
-sumanth@thro12:~$ ping recruiters --count 1
-64 bytes of curiosity: icmp_seq=1 ttl=64 - open to junior networking / cloud roles
-```
-
-```console
-sumanth@thro12:~$ cat about.md
-CCNA preparation nearing completion - trained hands-on, not yet certified
-7 Cisco Networking Academy course badges earned
-Juniper track is the next goal
-I like my networks redundant, my configs version-controlled,
-and my labs honest about what passed and what failed
-```
-
 ## `tcpdump --stats`
 
 <div align="center">
@@ -72,6 +47,30 @@ and my labs honest about what passed and what failed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumanth--r--ml-5b2a86?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanth-r-ml/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-live%20site-3d1a63?style=flat-square&logo=vercel&logoColor=white)](https://sumanth-portfolio-nine.vercel.app/)
+
+```console
+sumanth@thro12:~$ whoami
+Sumanth R - Computer Science (2026), networking-first fresher
+
+sumanth@thro12:~$ traceroute career-path
+ 1  CCNA training on physical Cisco 2500-series devices (TBN, Bengaluru)
+ 2  Enterprise labs in Packet Tracer + GNS3 - hotel, bank and company networks
+ 3  Linux and AWS fundamentals
+ 4  Python network automation with Netmiko
+ 5  target: junior network engineer -> automation -> data-centre networking
+
+sumanth@thro12:~$ ping recruiters --count 1
+64 bytes of curiosity: icmp_seq=1 ttl=64 - open to junior networking / cloud roles
+```
+
+```console
+sumanth@thro12:~$ cat about.md
+CCNA preparation nearing completion - trained hands-on, not yet certified
+7 Cisco Networking Academy course badges earned
+Juniper track is the next goal
+I like my networks redundant, my configs version-controlled,
+and my labs honest about what passed and what failed
+```
 
 <div align="center">
 
